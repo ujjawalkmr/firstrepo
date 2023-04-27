@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
                tiles: [
                  ListTile(
                    tileColor: Colors.tealAccent,
-                   textColor: Colors.black,
+                   textColor: Colors.pinkAccent,
                    leading: Icon(
                      Icons.backpack,
                      size: 35.0,
